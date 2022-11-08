@@ -14,7 +14,7 @@ yarn add @k0michi/now
 ```js
 import { now } from '@k0michi/now';
 
-console.log(await now());
+console.log(now());
 // 1667912108734934000n
 ```
 
