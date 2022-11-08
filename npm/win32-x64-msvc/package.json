@@ -11,8 +11,10 @@
   "files": [
     "now.win32-x64-msvc.node"
   ],
+  "description": "Get the current UNIX time in nanoseconds",
   "license": "MIT",
   "engines": {
     "node": ">= 10"
-  }
+  },
+  "repository": "https://github.com/k0michi/napi-now"
 }

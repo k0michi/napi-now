@@ -32,5 +32,7 @@
     "test": "ava",
     "version": "napi version"
   },
-  "packageManager": "yarn@3.2.4"
+  "packageManager": "yarn@3.2.4",
+  "repository": "https://github.com/k0michi/napi-now",
+  "description": "Get the current UNIX time in nanoseconds"
 }
